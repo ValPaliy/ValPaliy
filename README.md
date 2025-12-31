@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ValPaliy
-- 👀 I’m interested in all things IT
-- 🌱 I’m currently enhancing my skills in web accessibility
-- 💞️ I’m looking to collaborate on anything interesting and useful
+- 👋 Hi, I’m @ValPaliy.
+- 👀 I’m interested in all things IT.
+- 🌱 I’m currently enhancing my skills in web accessibility.
+- 💞️ I’m looking to collaborate on anything interesting and useful.
 - 📫 How to reach me: visit https://valticus.pro/
 
 <!---
